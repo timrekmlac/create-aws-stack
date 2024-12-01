@@ -4,7 +4,7 @@
         "S3Bucket": {
             "Type": "AWS::S3::Bucket",
             "Properties": {
-                "BucketName": "cf-jenkins-demo-s3-bucket"
+                "BucketName": "cf-jenkins-demo-s3-bucket1"
             }
         }
     },
